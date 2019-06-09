@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Dan Bodey',
-  description: 'A collection of articles about my Clipper Race experance',
+  description: 'A collection of articles about my Clipper Race experience',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
