@@ -52,7 +52,7 @@ const config: WebsiteConfig = {
   title: 'Dan Bodey',
   description: 'A collection of articles about my Clipper Race experience',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/logo.png',
   lang: 'en',
   siteUrl: 'https://danbodey.netlify.com',
   facebook: 'https://www.facebook.com/dan.bodey.3',

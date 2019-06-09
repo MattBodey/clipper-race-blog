@@ -173,7 +173,7 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   query {
-    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
+    logo: file(relativePath: { eq: "img/logo.png" }) {
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.
