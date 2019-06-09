@@ -54,7 +54,7 @@ const config: WebsiteConfig = {
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://hungry-khorana-f185e5.netlify.com',
+  siteUrl: 'https://danbodey.netlify.com',
   facebook: 'https://www.facebook.com/dan.bodey.3',
   showSubscribe: true,
   mailchimpAction: 'https://gmail.us20.list-manage.com/subscribe/post?u=29dee19dbd2230b103c797e49&amp;id=5c84684151',
