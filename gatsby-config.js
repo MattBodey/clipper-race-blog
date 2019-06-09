@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Dan Bodey',
     description: 'A collection of articles about my Clipper Race experance',
-    siteUrl: 'https://hungry-khorana-f185e5.netlify.com', // full path to blog - no ending slash
+    siteUrl: 'https://danbodey.netlify.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
