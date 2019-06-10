@@ -14,4 +14,4 @@ To get eveyone prepaired for the race participents are required to undergo four 
 
 ##Level One
 
-Level One is a week to develop crew skills, starting from scratch and learning how to sail these incredable boats. there were eight people on my first week of training.
+Level One is a week to develop crew skills, starting from scratch and learning how to sail these incredable boats. there were eight people on my first week of training. ![alt text](img/Level One/IMG-20180920-WA0000.jpg)
