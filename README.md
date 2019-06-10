@@ -1,5 +1,7 @@
 # clipper race blog 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d1c3fdee-201b-4b02-8c4c-a783255529a9/deploy-status)](https://app.netlify.com/sites/danbodey/deploys)
+
 ## Getting Started
 Clone this repo.
 
