@@ -6,7 +6,7 @@ author: Dan
 date: "2019-06-10T10:00:00.000Z"
 tags:
   - Training
-draft: true
+draft: false
 ---
 #Trianing#
 
