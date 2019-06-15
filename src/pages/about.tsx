@@ -36,40 +36,23 @@ const About: React.FunctionComponent = () => (
 
           <PostFullContent className="post-full-content">
             <div className="post-content">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in neque.
-                Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam aliquam
-                tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at diam tempus,
-                ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam eget, consequat
-                blandit nulla. Integer volutpat velit vitae purus lacinia aliquam. Integer bibendum
-                ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla eu massa id orci
-                placerat finibus vel sit amet eros. Vestibulum quis consequat massa. Sed sagittis
-                sollicitudin massa at commodo. Praesent diam nisi, imperdiet posuere eleifend nec,
-                blandit ac massa.
-              </p>
-              <p>
-                Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem, aliquam
-                mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus blandit. Ut
-                mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam molestie
-                pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum non,
-                sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id, laoreet
-                nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac. Donec eget
-                orci venenatis justo lobortis volutpat. Proin vel placerat nisl. Integer arcu nunc,
-                sodales eu fringilla non, aliquam non diam. Cras placerat, massa et faucibus
-                pretium, ante elit tincidunt tellus, tristique ultricies velit quam et massa.
-              </p>
-              <p>
-                In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse ut
-                tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper. Ut
-                sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque. Proin
-                a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris dignissim vel
-                quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper odio. Nullam a
-                lacus tempus sapien dignissim ullamcorper. In hac habitasse platea dictumst. Proin
-                quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec posuere pulvinar
-                lectus, ac semper ipsum vulputate quis.
-              </p>
+              <h2 id="me">Me</h2>
+
+              <p>For anybody that doesn’t know me. I’m a 28 year old civil engineer from Essex with a love for adventure and extreme sports. I have decided to undertake the ultimate sailing adventure and join the Clipper Race to circumnavigate the world.</p>
+
+              <h2 id="theclipperrace">The Clipper Race</h2>
+
+              <p>Taken from the Clipper Race website</p>
+
+              <p>The Clipper Race is one of the biggest challenges of the natural world and an endurance test like no other. With no previous sailing experience necessary, it’s a record breaking 40,000 nautical mile race around the world on a 70-foot ocean racing yacht.</p>
+
+              <p>The brainchild of Sir Robin Knox-Johnston, the first person to sail solo non-stop around the world, the event is now on its eleventh edition, with the twelfth edition starting in 2019-20.</p>
+
+              <p>Divided into eight legs and 13 to 16 individual races, you can choose to complete the full circumnavigation or select individual legs. It is the only race in the world where the organisers supply a fleet of eleven identical racing yachts, each with a fully qualified skipper to safely guide the crew.</p>
+
+              <p>Normally the domain of seasoned pros, this supreme challenge is taken on by ordinary, everyday people. Having completed a rigorous training course, participants are suited and booted in the latest extreme protection gear to commence the race of their lives - an unparalleled challenge where taxi drivers rub shoulders with chief executives, vicars mix with housewives, students work alongside bankers, and engineers team up with rugby players.</p>
+
+              <p>The sea does not distinguish between Olympians or novices. There is nowhere to hide - if Mother Nature throws down the gauntlet, you must be ready to face the same challenges as the pro racer. Navigate the Doldrums en route to South America, endure epic Southern Ocean storms, experience South African sunsets, face the mountainous seas of the North Pacific - and bond with an international crew creating lifelong memories before returning victorious.</p>
             </div>
           </PostFullContent>
         </article>
