@@ -28,6 +28,17 @@ Part way through the week we spent the evening trying on the Musto kit that will
 ---
 We had fantastic weather for the start of the week before the wind picked up and we found ourselves sailing back from cows on the final day in 40 knots of wind.
 
+Some of the overseas crew struggled to pronounce Sian correctly so one evening at our daily debrief we had an elocution lesson. 
+
+![alt text](img/Level One/IMG-20180923-WA0047.jpg)
+---
+Packing away the head sails at the end of the day was a big team effort.
+
+![alt text](img/Level One/IMG-20180923-WA0032.jpg)
+
+![alt text](img/Level One/IMG-20180923-WA0051.jpg)
+---
+
 ![alt text](img/Level One/IMG-20180921-WA0011.jpg)
 
 ![alt text](img/Level One/IMG-20180921-WA0004.jpg)
@@ -46,8 +57,6 @@ We had fantastic weather for the start of the week before the wind picked up and
 
 ![alt text](img/Level One/IMG-20180923-WA0017.jpg)
 
-![alt text](img/Level One/IMG-20180923-WA0032.jpg)
-
 ![alt text](img/Level One/IMG-20180923-WA0036.jpg)
 
 ![alt text](img/Level One/IMG-20180923-WA0039.jpg)
@@ -57,10 +66,6 @@ We had fantastic weather for the start of the week before the wind picked up and
 ![alt text](img/Level One/IMG-20180923-WA0046.jpg)
 
 ![alt text](img/Level One/IMG-20180923-WA0047.jpg)
-
-![alt text](img/Level One/IMG-20180923-WA0051.jpg)
-
-![alt text](img/Level One/IMG-20180923-WA0052.jpg)
 
 ![alt text](img/Level One/IMG-20180923-WA0057.jpg)
 
