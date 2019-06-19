@@ -181,7 +181,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
             <SubscribeButton onClick={this.openModal}>Subscribe</SubscribeButton>
           )}
           {config.showSubscribe && <SubscribeModal ref={this.subscribe} />}
-          <SubscribeButton href="'http://www.justgiving.com/Daniel-Bodey-Clipper">Donate</SubscribeButton>
+          <SubscribeButton href="http://www.justgiving.com/Daniel-Bodey-Clipper">Donate</SubscribeButton>
         </SiteNavRight>
       </nav>
     );
