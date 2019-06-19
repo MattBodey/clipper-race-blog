@@ -41,7 +41,7 @@ After a long day running through sail hoists and reafing drills along with sever
 
 The journy back from the french cost turned out to be a ruff one with 30 plus Knots of wind and moderat seas. My watch had the pleasure of packing the code 3 spiniker back into it's bag. que see sickness, trying to pack the sail in the bow of the boat while its being bounceed two meters up and down compinded with the hot stuffy nature of the space with verry little air flow put a coulpe of us over the edge, racing to get back up on deck before being over come 
 
-![alt text](img/L4/L4_WA_9.jpg)
+![alt text](https://media.giphy.com/media/SVaMvjPVp2RUxDHopW/giphy-downsized-large.gif)
 ---
 
 The final part of the week consisted of practice race starts and then 2 races one of around 160nm, and one of 60nm. Friday morning saw all the boats getting ready for the races hoisting the storm sails and porading in front of the race commity boat.
