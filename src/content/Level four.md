@@ -31,7 +31,7 @@ We stayed at anchor overnight and got our last mostly full night’s sleep. The 
 
 We then set out across the channel spinnaker flying for our first test as a crew.
 
-![alt text](img/L4/L4_13_11.jpg). 
+![alt text](img/L4/L4_13_11.jpg) 
 ---
 
 After a long day running through sail hoists and reefing drills along with several MOB practices we were split into 2 watches for the night, on a 4 hour rotation from 18.00 till 10.00. Thursday morning found us enjoying the sunshine off the coast near Caen spotting dolphins.
