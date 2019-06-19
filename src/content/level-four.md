@@ -18,11 +18,11 @@ This week turned out to be the hardest week of training for me, both physically 
 
 The week started with the now standard boat prep and safety briefing before we headed out in to the Solent were we paired up with Sanya to go through boat to boat transfers and towing. 
 
-![Mike explaining the towing setup](img/L4/L4_11_3.jpg)
+![alt text](img/L4/L4_11_3.jpg"Mike explaining the towing setup")
 ---
-![Being towed by Sanya](img/L4/L4_11_4.jpg)
+![alt text](img/L4/L4_11_4.jpg"Being towed by Sanya")
 ---
-![Towing Sanya along](img/L4/L4_11_5.jpg)
+![alt text](img/L4/L4_11_5.jpg"Towing Sanya along")
 ---
 
 We stayed at anchor overnight and got our last mostly full night’s sleep. The next morning we went over moving a casualty around the boat on a spinal board. No easy on a flat boat! I’m hoping we never have to use it for real.
@@ -54,7 +54,7 @@ We practiced the two start types that will be used to start the races. The first
 
 Race 2 was a downwind leg with a Le Mans start from Portland back to the east of the Isle of White. 
 
-![Recovering from the frantic spinnaker hoist after the race start](img/L4/L4_WA_14.jpg)
+![alt text](img/L4/L4_WA_14.jpg"Recovering from the frantic spinnaker hoist after the race start")
 ---
 
 Some of the boats were handy capped as they had damaged their spinnakers during the week and so were unable to use them. We found ourselves in a battle for 3 place with Sanya managing to cross the finish barely 5 mins in front.
@@ -63,12 +63,12 @@ In all it was a very good week with some memorable moments. some bad like when w
 
 ![alt text](img/L4/L4_WA_13.jpg)
 ---
-![The companion way rigged for life at 45 deg.](img/L4/L4_WA_12.jpg) 
+![Talt text](img/L4/L4_WA_12.jpg"The companion way rigged for life at 45 deg.") 
 ---
-![Chilling on the foredeck](img/L4/L4_WA_15.jpg) 
+![alt text](img/L4/L4_WA_15.jpg"Chilling on the foredeck") 
 ---
-![Enjoying the light breeze under spinnaker](img/L4/L4_WA_1.jpg) 
+![alt text](img/L4/L4_WA_1.jpg"Enjoying the light breeze under spinnaker") 
 ---
-![Sunset in the channel](img/L4/L4_WA_11.jpg) 
+![alt text](img/L4/L4_WA_11.jpg"Sunset in the channel") 
 ---
 
