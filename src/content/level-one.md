@@ -6,7 +6,7 @@ author: Dan
 date: "2018-09-21T10:00:00.000Z"
 tags:
   - Training
-draft: true
+draft: false
 ---
 #Training#
 
