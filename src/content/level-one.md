@@ -32,12 +32,13 @@ Some of the overseas crew struggled to pronounce Sian correctly so one evening a
 
 ![alt text](img/Level One/IMG-20180923-WA0047.jpg)
 ---
-
+---
 Packing away the head sails at the end of the day was a big team effort.
 
 ![alt text](img/Level One/IMG-20180923-WA0032.jpg)
 
 ![alt text](img/Level One/IMG-20180923-WA0051.jpg)
+---
 ---
 
 ![alt text](img/Level One/IMG-20180921-WA0011.jpg)
@@ -65,8 +66,6 @@ Packing away the head sails at the end of the day was a big team effort.
 ![alt text](img/Level One/IMG-20180923-WA0042.jpg)
 
 ![alt text](img/Level One/IMG-20180923-WA0046.jpg)
-
-![alt text](img/Level One/IMG-20180923-WA0047.jpg)
 
 ![alt text](img/Level One/IMG-20180923-WA0057.jpg)
 
