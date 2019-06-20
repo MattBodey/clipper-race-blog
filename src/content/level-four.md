@@ -9,9 +9,6 @@ tags:
 draft: false
 ---
 
-# Level Four
----
-
 Level four was the first opportunity I had to sail with my skipper and mate on the team UNICEF boat. This week was to give us a chance to get to know the boat and each other while also giving us our first test of racing.
 
 This week turned out to be the hardest week of training for me, both physically and mentally. I was with fourteen of my fellow crew mates, our skipper Ian Wiggin and the mate Mike Miller.
