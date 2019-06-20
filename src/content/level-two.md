@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Level 2 
+title: Level Two 
 image: img/L2/L2-20190228-28.jpg
 author: Dan
 date: "2019-02-18T10:00:00.000Z"
@@ -8,8 +8,6 @@ tags:
   - Training
 draft: false
 ---
-
-# Level Two 
 
 ## Sea survival
 
