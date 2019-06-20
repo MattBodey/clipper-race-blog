@@ -9,12 +9,8 @@ tags:
 draft: false
 ---
 
-# Training
----
 
-To get everyone prepared for the race participants are required to undergo four levels of training, each level takes a week to complete and can be repeated if required.
-
-## Level One
+## Level One 
 ---
 
 Level One is a week to develop crew skills, starting from scratch and learning how to sail these incredible boats. There were eight crew on my first week of training plus the skipper Emily and two mates Romeo and Dan.
