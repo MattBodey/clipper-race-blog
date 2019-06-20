@@ -9,10 +9,6 @@ tags:
 draft: false
 ---
 
-
-## Level One 
----
-
 Level One is a week to develop crew skills, starting from scratch and learning how to sail these incredible boats. There were eight crew on my first week of training plus the skipper Emily and two mates Romeo and Dan.
 
 ![alt text](img/L1/IMG-20180920-WA0000.jpg "Level One Crew")
