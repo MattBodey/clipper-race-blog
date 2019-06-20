@@ -38,7 +38,7 @@ Then we needed to fill up the fuel tanks as they had been left virtually empty b
 
 ---
 
-This week we spent the nights at anchor running a one hour watch rotation to make sure we were not drifting. One of the other boats managed to lose their anchor in the middle of the night proving how important the watch was. 
+This week we spent the nights at anchor running a one hour watch rotation to make sure we were not drifting. One of the other boats managed to loose their anchor in the middle of the night proving how important the watch was. 
 As with week one we weren’t free from mechanical issues with the starter motor getting stuck on. The only way we could stop it was to completely isolate the electronics in the engine compartment. The problem with this was that it also turned off the automatic fire extinguisher and the other warning censers. A trip back to Gosport was required so the maintenance team could changed a small relay that was causing all the problems.  
 
 While we were sailing round the isle of white we heard a mayday from one of the other clipper boats stating that they were on fire and required assistance. We determined that we were too far from them to help but listened in with interest to hear of any developments. Shortly after the coastguard put out an information broadcast telling everyone to stand down as it was a false alarm. It turned out that while running through a drill one of the crew had sent out a real message rather than pretending to issue one. 
