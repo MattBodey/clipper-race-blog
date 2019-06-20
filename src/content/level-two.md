@@ -9,7 +9,7 @@ tags:
 draft: true
 ---
 
-# Level Two#
+# Level Two 
 
 ## Sea survival
 
@@ -24,7 +24,7 @@ The first day of my level two training started off at a local school were we spe
 ![alt text](img/L2/L2-20190228-6.jpg)
 
 ---
-## The Week on the Boat##
+## The Week on the Boat 
 
 I had picked February for my training week in the hopes that it would provide me with a good idea what is will be like living on board in bad weather. The British weather had other plans, I ended up being out on the boat during one of the hottest weeks in February. We had sunshine and light winds all week. Although this didn’t give me the opportunity to test kit that I was looking for it did mean that we could spend lots of time going over boat evolutions. Reefing and un-reefing the main sail, hoisting and changing the head sails, MOB’s and more. 
 
