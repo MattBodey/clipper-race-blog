@@ -13,13 +13,13 @@ Level One is a week to develop crew skills, starting from scratch and learning h
 
 ![alt text](img/L1/IMG-20180920-WA0000.jpg "Level One Crew")
 ---
-As I have come to appreciate from sailing at home it’s a rare trip that doesn’t have something on the boat needing to be fixed. The clipper boats proved to be no exception during out safety walkthrough on the first morning it was discovered that the gas detectors on board were not functioning. So while we were getting the boat ready to depart Romeo spent the morning fixing the gas detectors.    
-We Spent the week in the Solent learning the basics of sailing on the Clipper 68’s these boats completed several circumnavigations before being replaced by the Clipper 70’s for the 2013-14 edition of the race. 
-Part way through the week we spent the evening trying on the Musto kit that will be provided for the race.
+As I have come to appreciate from sailing at home it’s a rare trip that doesn’t have something on the boat needing to be fixed. The clipper boats proved to be no exception. During our safety walkthrough on the first morning it was discovered that the gas detectors on board were not functioning, so while we were getting the boat ready to depart Romeo spent the morning fixing the gas detectors.    
+We spent the week in the Solent learning the basics of sailing on the Clipper 68’s these boats completed several circumnavigations before being replaced by the Clipper 70’s for the 2013-14 edition of the race. 
+Partway through the week we spent the evening trying on the Musto kit that will be provided for the race.
 
 ![alt text](img/L1/IMG-20180921-WA0002.jpg "Foul weather gear")
 ---
-We had fantastic weather for the start of the week before the wind picked up and we found ourselves sailing back from cows on the final day in 40 knots of wind.
+We had fantastic weather for the start of the week before the wind picked up and we found ourselves sailing back from Cows on the final day in 40 knots of wind.
 
 Some of the overseas crew struggled to pronounce Sian correctly so one evening at our daily debrief we had an elocution lesson. 
 
