@@ -6,7 +6,7 @@ author: Dan
 date: "2019-08-16T10:00:00.000Z"
 tags:
   - Prep Week
-draft: true
+draft: false
 ---
 
 
@@ -36,7 +36,7 @@ Thursday we took a group trip to the park with the spinnakers to check those and
 
 Friday the final sprint to finish the main jobs. Putting the soap dispensers and paper towel holders in the heads, fixing the mirror for those using contacts and the white board for our briefings 
 
-![alt text](img/prep/20190820_192401.jpg)
+![alt text](img/prep/20190821_113127.jpg)
 
 The week went by very quickly by the end we had complete all the major jobs and most of the minor ones leaving a selection of dream jobs as on going projects. As a team we had a really good turn out and it was a great opportunity to get to know my fellow crew members better in a much more relaxed environment to the previous weeks of training.   
 
@@ -44,13 +44,11 @@ The week went by very quickly by the end we had complete all the major jobs and 
 ![alt text](img/prep/20190816_080220.jpg)
 ![alt text](img/prep/20190813_103757.jpg)
 ![alt text](img/prep/20190813_103805.jpg)
-![alt text](img/prep/20190813_180629.jpg)
 ![alt text](img/prep/20190814_112803.jpg)
 ![alt text](img/prep/20190814_132954.jpg)
 ![alt text](img/prep/20190814_132858.jpg)
 ![alt text](img/prep/20190815_140216.jpg)
-![alt text](img/prep/20190816_071831.jpg)
 ![alt text](img/prep/20190816_080220.jpg)
 ![alt text](img/prep/20190816_081106.jpg)
-![alt text](img/prep/20190820_192401.jpg)
+
 
