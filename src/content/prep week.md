@@ -32,7 +32,7 @@ Wednesday was rope replacement day and wrapping the bowsprit with blue rope to p
 
 Thursday we took a group trip to the park with the spinnakers to check those and pack them in to the bags. It's amazing how big the sails are when you have them laid out on the ground. I also spent time putting an extra sheath on the ends of the ropes to provide some extra chafe protection. 
 
-![alt text](img/prep/200815_144707.jpg)
+![alt text](img/prep/20190815_144707.jpg)
 
 Friday the final sprint to finish the main jobs. Putting the soap dispensers and paper towel holders in the heads, fixing the mirror for those using contacts and the white board for our briefings 
 
