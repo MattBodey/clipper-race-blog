@@ -42,3 +42,15 @@ The week went by very quickly by the end we had complete all the major jobs and 
 
 
 ![alt text](img/prep/20190816_080220.jpg)
+![alt text](img/prep/20190813_103757.jpg)
+![alt text](img/prep/20190813_103805.jpg)
+![alt text](img/prep/20190813_180629.jpg)
+![alt text](img/prep/20190814_112803.jpg)
+![alt text](img/prep/20190814_132954.jpg)
+![alt text](img/prep/20190814_132858.jpg)
+![alt text](img/prep/20190815_140216.jpg)
+![alt text](img/prep/20190816_071831.jpg)
+![alt text](img/prep/20190816_080220.jpg)
+![alt text](img/prep/20190816_081106.jpg)
+![alt text](img/prep/20190820_192401.jpg)
+
