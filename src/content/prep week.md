@@ -13,13 +13,13 @@ draft: false
 [Big Blue Boat Prep Week Video](https://www.facebook.com/TheBigBlueClipperBoat/videos/2084700251836059/)
 
 Before leaving the UK for the race the boats need to be prepared. We are given a week to prepare our boat for the race. 
-The week started on Saturday with a lunch time briefing, going over the main jobs that needed to be done and listing some of the dream jobs that would be nice to complete if there was time. The list was long and daunting to start. Including changing the sails for new ones, changing all the running rigging on the boat (ropes) putting new netting on the guard rails. And that's just above decks!! After the briefing we spilt into groups to start working through the jobs. As the designated ships engineer my first task was to do an inventory of the tools and spares on board work out what was and wasn't needed and pack them into the allocated storage space
+The week started on Saturday with a lunch time briefing, going over the main jobs that needed to be done and listing some of the dream jobs that would be nice to complete if there was time. The list was long and daunting to start. Including changing the sails for new ones, changing all the running rigging on the boat (ropes) putting new netting on the guard rails. And that's just above decks!! After the briefing we spilt into groups to start working through the jobs. As the designated ships engineer my first task was to do an inventory of the tools and spares on board work out what was and wasn't needed and pack them into the allocated storage space.
 
-![alt text](img/prep/2100810_123110.jpg)
+![alt text](img/prep/20190810_123110.jpg)
 
 Sunday and Monday were going through the jobs list and working out what we required from stores to complete them. Taking the old sails to the skip and collecting the shiny new ones checking them over for damage. And staring the jobs we had the stuff for like fixing the fridge in place.
 
-![alt text](img/prep/20190810_1801139.jpg)
+![alt text](img/prep/20190810_180139.jpg)
 
 Tuesday I spent all day in the lazarett which is the compartment at the back of the boat which contains the steering and is also used to store the rubbish, emergency water and diesel. Putting up netting to prevent anything being stored from getting to the steering cable areas and causing problems. During the day a freshly made cup of tea that I had left on deck was knocked over while I was down the hatch, landing all over my shoulder and back. So I spent 15mins sat on the pontoon using a hose to get cold water on to my back. 
 
