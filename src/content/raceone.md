@@ -4,10 +4,10 @@ title: "Race One"
 image: img/race1/20190901_190145.jpg
 author: Dan
 date: "2019-09-14 T10:00:00.000Z"
+draft: false
 tags:
   - "Leg one"
   - "Race one"
-draft: false
 ---
 
 
@@ -43,21 +43,40 @@ Sunday 8th
 As we rounded the bottom of Portugal it was looking good for us to be getting a podium finish and everyone was in high sprites as we chased down Qingdao in the slowly dyeing winds. After a long game of chase we where finally in touching distance of the lead. Our hopes where dashed when we saw Punta Del esta and the rest of the middle pack using the coastal winds to speed straight passed. We finally managed To make it into Portomaio after a gruelling 24 hours where we only made 20 miles a distance that we were doing in less than an hour at some points in the race.  We where gutted to be coming in 6th  and extremely tired from the 5.30 am finish. Being so close the finish for so long no one was able to rest properly. The general feeling is that we sailed well and were unlucky with the weather on the final day of sailing. Which I feel puts us in a good place going forward in to the next race as we have proved that we are a serious threat in the general standings. 
 
 ![Alt Text](img/race1/20190901_155059.jpg)
+
 ![Alt Text](img/race1/20190901_155123.jpg)
+
 ![Alt Text](img/race1/20190901_160757.jpg)
+
 ![Alt Text](img/race1/20190901_160803.jpg)
+
 ![Alt Text](img/race1/20190901_163609.jpg)
+
 ![Alt Text](img/race1/20190901_184930.jpg)
+
 ![Alt Text](img/race1/20190901_190145.jpg)
+
 ![Alt Text](img/race1/20190902_151949.jpg)
+
 ![Alt Text](img/race1/20190905_122112.jpg)
+
 ![Alt Text](img/race1/20190905_163719.jpg)
+
 ![Alt Text](img/race1/20190907_154634.jpg)
+
 ![Alt Text](img/race1/20190907_154643.jpg)
+
 ![Alt Text](img/race1/20190907_163340.jpg)
+
 ![Alt Text](img/race1/20190907_200228.jpg)
+
 ![Alt Text](img/race1/20190908_065747.jpg)
+
 ![Alt Text](img/race1/20190908_170410.jpg)
+
 ![Alt Text](img/race1/20190908_193505.jpg)
+
 ![Alt Text](img/race1/20190909_063911.jpg)
+
 ![Alt Text](img/race1/20190909_071621.jpg)
+
