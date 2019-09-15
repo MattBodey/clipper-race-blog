@@ -3,7 +3,7 @@ layout: post
 title: "Race One"
 image: img/race1/20190901_190145.jpg
 author: Dan
-date: "2019-09-14 T10:00:00.000Z"
+date: "2019-09-14T10:00:00.000Z"
 draft: false
 tags:
   - "Leg one"
