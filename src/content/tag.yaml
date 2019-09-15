@@ -1,3 +1,6 @@
 - id: training
   description: To get everyone prepared for the race participants are required to undergo four levels of training, each level takes a week to complete and can be repeated if required.
   image: img/L2/L2-20190228-33.jpg
+- id: race
+  description: The race is on!
+  image: img/Route-map.jpg
