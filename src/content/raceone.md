@@ -5,7 +5,8 @@ image: img/race1/20190901_190145.jpg
 author: Dan
 date: "2019-09-14 T10:00:00.000Z"
 tags:
-  - Leg one – Race one
+  - Leg one
+  - Race one
 draft: false
 ---
 
