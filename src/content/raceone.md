@@ -15,7 +15,7 @@ Race one London to Portimaio
 
 Leaving London was an incredible experience with hundreds of supporters who turned out to see the boats off. As part of the ceremonies we had the privilege of passing through tower bridge. 
 
-![Alt Text](img/race1/20190901_160728.jpg)
+![Alt Text](img/race1/20190901_160757.jpg)
 Race start the next morning was off the end of Southend pier. A light down wind start that saw all the boats competing for position on the southern end of the line. At times they where so close if felt like I could reach out and touch the next boat along. Each boat differed in when they decided to raise there spinnakers. We decided to hold on “white sails” longer then most as it gave us more options to manoeuvrer in the initial chaos and hold better angle on the first mark. After a morning of intense activity we settled in to our watch system under clear blue sky's and light north Westerly wind.
 
 Thursday 5th
