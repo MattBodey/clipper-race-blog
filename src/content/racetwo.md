@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Race Two"
-image: img/race1/20190901_190145.jpg
+image: img/race2/20190921_181334.jpg
 author: Dan
 date: "2019-10-21T10:00:00.000Z"
 draft: true
@@ -15,24 +15,28 @@ Portomaio to Punta del Este
 
 Monday 16th 
 
-After a week on shore most of the crew where ready to get back to sea. We had spent the time fixing the damage from the last race. Doing routine servicing of the winches and rebuilding the “X box” which is the splitter that allows us transfer the power from the grinders to the winches. This was sounding really noisy so we spoke to the maintenance team and together stripped it down. Finding a pile of fillings where the cogs should have been. 
+After a week on shore most of the crew where ready to get back to sea. We had spent the time fixing the damage from the last race. Doing routine servicing of the winches and rebuilding the “X box” which is the splitter that allows us transfer the power from the grinders to the winches. This was sounding really noisy so we spoke to the maintenance team and together stripped it down. Finding a pile of fillings where the cogs should have been.
+![Alt Text](img/race2/20190913_162958.jpg)
+
 
 Race start was a smilier format to London with slipping lines and a short parade before heading out to the start line with a large flotilla of small craft crowding round. After a short inshore course we headed out to sea. having been conservative to avoid any collision with the other boats we were in 10th place. As the night progressed and we sailed into the predicted light winds we closed on the top of the fleet. 
+![Alt Text](img/race2/20190915_153902.jpg)
 
 Tuesday 17th
 
 We are now about 50 miles of the cost of Morocco sailing along in around 15kn of wind and settling into life on board. The last positional update puts is in 3rd place however this far from the finish its not a particularly good reflection of the race. During this mornings watch I spent a couple of hours coaching Ursy and Jayne on the helm helping to improve their skills and ultimately help all of us in the long run by enabling the job to be shared by more people. 
 
-
+![Alt Text](img/race2/20190917_125129.jpg)
 Wednesday 18th 8.00
 
 The second half of the night proved to be an eventful one. Moving from light down wind sailing in the company of dolphins through fishing fleets of the cost of Morocco, to 25kns of wind and an in-cress in the swell.  The other watch experienced a messy jibe when one of them lost control of the new spinnaker sheet and over balanced thankfully not doing any damage to himself. They recovered well. Then at around 5.30 in the morning about 1h 30m for from the end of our watch the tack line on the spinnaker got rapped around the bow sprit and blew the snap shackle meaning that we had to leap in to action and drop the code 2 that we had been flying and hoist the code 3, as it was to windy for the code 1. pack the code 2. Drop the code 3. Re-hoist  the code 2, and finally repack the code 3, all this took us around 2 hours. As a watch we responded well with everyone falling into a role with out any direction. It almost felt like we had done this several times before whitch was great to experience and I feel has shown how far we have come as a team. 
 
-Thursday 19thth
+Thursday 19th
 
 During the night watch I failed to notice how close we where getting to a fishing trawler thankfully the other vessel was paying attention and radioed to find out what our intention was. This was picked up by Ian who had been below deck writing his blog. A lesson learned on just how quickly we close on other boats and how hard it is to judge distance at night.
 
 This morning the other watch noticed some holes in the code 2 that they think were caused by a less than ideal jibe, where the sheet was pulled in too soon and crushed the sail onto the forestay. So after breakfast my watch dropped the spinnaker and hoisted the code 3, so Holly our sail repair expert could get to work patching the sail. With the loss of some of the watch  to help we were short handed on deck a little concerning at times, as it would have been impassable to recover from some scenarios with so little people available. I spent some time during the watch coaching John on helming before taking over and having a go myself. Ian and mike are starting to spend less time on deck during the watches. A good sign I believe as it shows that they are starting to trust  our skills and judgment in keeping the boat safe and on course. 
+![Alt Text](img/race2/20190919_084227.jpg)
 
 Friday 20th
 
@@ -43,12 +47,14 @@ My watch is starting to get more of a feel for the boat meaning that response ti
 
 Saturday 21st
 
-Over the last 24 hours my watch has become a wildlife watch after first coming across around 20 small fishing vessels anchored across our path. A discovery that meant we had to wake the skipper so he could helm and thread us through the gaps at 15+ knots. Following all that excitement we where then joined by a pod of dolphins who played on our bow wave for a time. During our night watch we discovered a small bird taking refuge in the galley. This was given some sugared water and put on a snood until it decided to carry on with its journey. Ursy was surprised by a small flying fish jumping into her lap during the night as well. This morning we cam across approximately 200 dolphins spread out in a line on the swell, we can only assume that they where herding some fish. We are now speeding towards Cape Verdi under the code 1 having spent a morning waiting for the wind to die on us. At our lunch time meeting it was announced that Saturday would be shower day and every one need to have a wash by the end of the day. This involved standing on the back of the boat and using a bucket to collect sea water have a rinse down.  
+Over the last 24 hours my watch has become a wildlife watch after first coming across around 20 small fishing vessels anchored across our path. A discovery that meant we had to wake the skipper so he could helm and thread us through the gaps at 15+ knots. Following all that excitement we where then joined by a pod of dolphins who played on our bow wave for a time. During our night watch we discovered a small bird taking refuge in the galley. This was given some sugared water and put on a snood until it decided to carry on with its journey. Ursy was surprised by a small flying fish jumping into her lap during the night as well. This morning we cam across approximately 200 dolphins spread out in a line on the swell, we can only assume that they where herding some fish. We are now speeding towards Cape Verdi under the code 1 having spent a morning waiting for the wind to die on us. At our lunch time meeting it was announced that Saturday would be shower day and every one need to have a wash by the end of the day. This involved standing on the back of the boat and using a bucket to collect sea water have a rinse down.
+![Alt Text](img/race2/20190920_173014.jpg)
 
 Monday 23rd
 
 Yesterday was Sunday fun-day. The lunch time get together was extended and our TC Sandra along with Sophie produced a host of sweeties and some coke for each of us. We had some nominations for people with the x factor form the week, some funny some serious, everyone was in high spirits by the end. During the night we picked up a mayday from one of the other clipper boats reporting a man over board. Thankfully they reported a successful recovery. This afternoon our lunch was delayed as we said good bye to our spinnaker packed it away and hoisted our white sails for the first time in eight days. Good bye to days of stable winds and fair weather. As we batten down the hatches and prepare for the tail end of the building tropical storm, that is currently being birthed in the middle of our doldrums corridor. The boat is hot and stuffy with humidity. Now we have to get used to life at 45 degrees again for the next 36 hours until we are predicted to loose the wind completely. 
 
+![Alt Text](img/race2/20190920_134809.jpg)
 
 Wednesday 25th 
 
@@ -57,9 +63,10 @@ Over the last 2 days we had a busy series of watches with the wind building duri
 The 3 till 7 watch was one of the hardest and most intense watches yet. In the space of 4 hours we dropped the yanky 1. Hoisted the yanky 3. Realised the halyard was rapped around the port top spreader, something that could cause serious race ending damage to the rigging and sail. Dropped the sail to put it right, then re-hoisted. Untangled the lazy sheet ,which had tied its self round the active one during the manoeuvrers. Packed the yanky 1. Put in reef 1 on the main sail. Shook out reef 1. By the end we where all exhausted and in need of some rest. Sandra spent virtually all her off watch up lending before being mother for the day. As we have come together as a team me Alex and Sandra have become used to getting up on our off watches to help evolutions run smoothly. This has been draining on each of us. I have been up a few time now to help with various manoeuvrers. During the my morning off watch I got up to help move the yanky 2 off the foredeck after an aborted sail change. Then just as I was about to get into my bunk the gas ran out so I was asked to change the bottle. Nothing is ever easy on the boat especially when its at a 45 deg angle. More so with the gas change. We normally carry four bottles spilt 2 port and 2 starboard in lockers at the stern of the boat. We had been given a fifth bottle in Portomaio which uses a different regulator, so the port gas locker had its regulator changed and that bottle connected, the extra bottle (part empty from race 1) was lashed to the deck behind the helm. So when it came to changing the bottle we wanted to use up the part empty one first, this meant creating space in the starboard locker which has correct regulator. To do this I had to swap the empty bottle with a full one and put the part full one in the space created and connect it and finally lash the empty bottle to the deck. As the day wore on the wind started to die off and we changed the head sails again until the wind seeker was hoisted and we started to bob, now properly in the doldrums. At 630 this morning we turned the engine on and started our 60 hours of motoring. The morning watch has been spent packing away the sails and doing some much needed cleaning. 
 
 
-Friday 21st
+Friday 27st
 
 We are now nearing the end of our period of motoring. Its going to be nice to be sailing again and not have the noise of the engine ringing in my ears. The doldrums has provided some much needed rest. Giving a chance to sort out and wash our selves and some kit along with catching up on sleep. The watches drag at times as motoring in a straight line is not the most entertaining of activities. Several games of black gammon have been played along with way to many iterations of 20 questions. The boat has been given a good clean as much to keep us busy as because it needed it. Sails have been checked over, hanks repaired all in preparation for the up wind stage of the leg. Below decks is a furnace with the heat from the engine and the cooker combined with worm seas and hot weather preventing it from ever cooling down.      
+![Alt Text](img/race2/20191006_193046.jpg)
 
 Saturday 28th 
 
@@ -98,6 +105,7 @@ We had a busy couple of watches with sail changes and manoeuvrers, while the oth
 
 With the end now in sight peoples sprites are reviving and the boat has an almost giddy air. It helps that for the first time in a couple of weeks we are constantly closing the miles on the closest boats in  front. 
 
+![Alt Text](img/race2/20191008_150740.jpg)
 
 Thursday 9th 
 
@@ -113,5 +121,21 @@ We had a hard day of sailing today with the winds being very changeable and big 
 
 Sunday 13th 
 
+![Alt Text](img/race2/20191013_202503.jpg)
 We have arrived!! 
 
+
+##Photos
+![Alt Text](img/race2/20190915_150041.jpg)
+![Alt Text](img/race2/20190916_124202.jpg)
+![Alt Text](img/race2/20190916_133300.jpg)
+![Alt Text](img/race2/20190918_155228.jpg)
+![Alt Text](img/race2/20190918_194352.jpg)
+![Alt Text](img/race2/20191006_213520.jpg)
+![Alt Text](img/race2/20191009_103926.jpg)
+![Alt Text](img/race2/20191010_153948.jpg)
+![Alt Text](img/race2/20191010_154019.jpg)
+![Alt Text](img/race2/20191011_095213.jpg)
+![Alt Text](img/race2/20191011_095217.jpg)
+![Alt Text](img/race2/20191018_183346.jpg)
+![Alt Text](img/race2/20191020_020340.jpg)
