@@ -4,7 +4,7 @@ title: "Race Two"
 image: img/race2/20190921_181334.jpg
 author: Dan
 date: "2019-10-21T10:00:00.000Z"
-draft: true
+draft: false
 tags:
   - "Leg one"
   - "Race"
@@ -125,7 +125,7 @@ Sunday 13th
 We have arrived!! 
 
 
-##Photos
+##Photos##
 ![Alt Text](img/race2/20190915_150041.jpg)
 ![Alt Text](img/race2/20190916_124202.jpg)
 ![Alt Text](img/race2/20190916_133300.jpg)
