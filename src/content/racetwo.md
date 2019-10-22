@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Race Two"
-image: img/race2/20190921_181334.jpg
+image: img/race2/20190921_181334.png
 author: Dan
 date: "2019-10-21T10:00:00.000Z"
 draft: false
@@ -134,7 +134,7 @@ We have arrived!!
 ![Alt Text](img/race2/20190919_185443.jpg)
 ![Alt Text](img/race2/20190920_134809.jpg)
 ![Alt Text](img/race2/20190920_194419.jpg)
-![Alt Text](img/race2/20190921_181334.jpg)
+![Alt Text](img/race2/20190921_181334.png)
 ![Alt Text](img/race2/20191006_213520.jpg)
 ![Alt Text](img/race2/20191006_170648.jpg)
 ![Alt Text](img/race2/20191006_214336.jpg)
