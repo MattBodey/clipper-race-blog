@@ -3,7 +3,7 @@ layout: post
 title: "Race three"
 image: img/race3/20191112_092530.jpg
 author: Dan
-date: "2019-10-21T10:00:00.000Z"
+date: "2019-11-16T10:00:00.000Z"
 draft: false
 tags:
   - "Leg Two"
@@ -63,12 +63,12 @@ Friday 7th
 
 coming into the race finish we were catching up with Punta del Este with howling bay close behind. As we entered the bay we pass into the wind shadow of table mounting going from 25knots of wind down to 4. as we crept along we hoisted our windseaker with the knowledge that how long bay where closing in all the time and the hope that we could close on Punta. When we moved out of the shadow and in to 40knots of wind suddenly we needed to get our light wait sails down and get the boat set for the increased wind to allow us to get to the finish. With all the crew on deck the place was crowded with body's everywhere we pulled through and managed to to the longest sequence of sail changes so far dropping the wind seeker hoisting the yanky 2 realising that the boat was still over powered dropping the yanky 2 and hoisting the stay sail. And finally putting reef 2 in the main sail. Before we could try and sort out the mass of ropes pulled in the cockpit and prepare for the final couple of tacks to make it to the finish line securing our 3rd place position.  
 
-![alt text](img/race3/dan helm.jpg)
-![alt text](img/race3/helming pic.jpg)
+![alt text](img/race3/dan_helm.jpg)
+![alt text](img/race3/helming_pic.jpg)
 ![alt text](img/rce3/meting.jpg)
-![alt text](img/race3/mikey inflated.jpg)
+![alt text](img/race3/mikey_inflated.jpg)
 ![alt text](img/race3/plotting.jpg)
-![alt text](img/race3/strategy 2.jpg)
-![alt text](img/race3/up mast.jpg)
-![alt text](img/race3/wave ACTION SHOT 2.jpg)
+![alt text](img/race3/strategy_2.jpg)
+![alt text](img/race3/up_mast.jpg)
+![alt text](img/race3/wave_ACTION_SHOT.jpg)
 
