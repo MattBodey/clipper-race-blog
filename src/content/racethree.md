@@ -65,7 +65,7 @@ coming into the race finish we were catching up with Punta del Este with howling
 
 ![alt text](img/race3/dan_helm.jpg)
 
-![alt text](img/race3/meting.jpg)
+![alt text](img/race3/meeting.jpg)
 
 ![alt text](img/race3/mikey_inflated.jpg)
 
