@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-casper",
-  "description": "Casper for gatsby",
+  "name": "clipper-race-blog",
+  "description": "Dan bodeys clipper race blog",
   "version": "0.0.0",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "Matt Bodey <mattbodey@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
